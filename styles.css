@@ -1,0 +1,86 @@
+/*초기설정*/
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+div {margin: 0 auto;}
+
+#top {
+    width: 1920px; height: 1080px; 
+    background: url(../etc/skz2.gif);
+
+}
+
+#top p.logo { padding-top: 30px;
+    padding-left: 200px;
+}
+
+#top h2 { padding-top: 400px;
+        
+        font-size: 40px;
+        color: #fff;
+        text-align: center;
+        
+    }
+
+
+#top h3 {color:#fff;
+        font-size: 30px;
+    font-weight: normal;
+}
+
+#top p.btn1 {
+
+    width: 160px; height: 60px;
+    background: #fff; 
+    display: inline-block;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 80px;
+
+}
+
+#top p.btn2 {
+
+    width: 205px; height: 60px;
+    background: #fff; 
+    opacity: 0.8;
+    display: inline-block;
+    text-align: center;
+    border-radius: 10px;
+    margin-top: 100px;
+    margin-left: 80px;
+
+}
+
+#top p.btn1 a {
+
+    line-height: 60px;
+    font-size: 24px;
+    color : #333;
+
+
+}
+
+
+#top p.btn2 a {
+
+    line-height: 60px;
+    font-size: 24px;
+    color : #333;
+
+
+}
+
+
+
+
+
+
